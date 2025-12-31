@@ -8,7 +8,7 @@ first you clone the repository by writing git clone https://github.com/YOUHAVEBE
 
 after cloning the repository 
 install the requirements by 
-typing pip install requirements.txt
+typing pip install -r requirements.txt
 
 then run the script by typing python Eth_cracking_machine.py
 
