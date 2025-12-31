@@ -1,4 +1,4 @@
 requests==2.32.4
 CryptoFuzz==18.6.0
-mnemonic==0.19
+mnemonic==0.21
 rich==14.2.0
